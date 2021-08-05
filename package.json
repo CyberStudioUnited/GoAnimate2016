@@ -6,7 +6,7 @@
 	"license": "MIT",
 	"private": true,
 	"scripts": {
-		"start": "node main.js"
+		"start": "node main.js",
 		"build": "npm run build"
 	},
 	"main": "index.js",
